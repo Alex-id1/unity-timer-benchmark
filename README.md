@@ -28,6 +28,8 @@
 
 A standalone Unity application that runs configurable timer benchmarks and visualizes results in real time.
 
+![demo](results/screenshots/demo.gif)
+
 ### Screenshots
 
 | Main UI | Results |
