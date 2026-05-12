@@ -177,7 +177,7 @@ unity-timer-benchmark/
 └── README.md
 ```
 
-> The Unity project source is maintained separately.
+> [The Unity project source](https://github.com/Alex-id1/unity-timer-benchmark-tool) is maintained separately.
 > This repository focuses on benchmark results, analysis and tooling.
 
 ---
