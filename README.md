@@ -93,7 +93,7 @@ Filtered to configurations where CoV < 0.25 to exclude spike-affected measuremen
 | Runs per suite | 3 independent sessions |
 | FPS source | `1 / Time.deltaTime` sampled at 0.25s intervals |
 | GC source | `GC.GetTotalMemory(false)` in MB |
-| CPU source | `ProfilerRecorder` - Main Thread (nanoseconds → ms) |
+| CPU source | `ProfilerRecorder` - Main Thread (nanoseconds -> ms) |
 
 > **Note on FPS variance:** Many configurations show high StdDev due to single-frame GC pause spikes
 > dropping FPS from ~1500 to ~200 within one 0.5s interval. This is a measurement artifact,
