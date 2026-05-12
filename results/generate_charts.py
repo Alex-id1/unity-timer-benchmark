@@ -58,7 +58,7 @@ def setup_style():
 def save(fig, name):
     path = os.path.join(OUT_DIR, name)
     fig.savefig(path, dpi=150, bbox_inches="tight", facecolor=fig.get_facecolor())
-    print(f"  saved → {path}")
+    print(f"  saved -> {path}")
     plt.close(fig)
 
 # -----------------------------------------
