@@ -32,7 +32,7 @@ A standalone Unity application that runs configurable timer benchmarks and visua
 
 | Main UI | Results |
 |---|---|
-| *(screenshot)* | *(screenshot)* |
+| ![Main UI](results/screenshots/ss1.png) | ![Results](results/screenshots/ss2.png) |
 
 ### Features
 
